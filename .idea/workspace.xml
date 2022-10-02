@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f10df45-eab5-4ad8-8edc-5f3734e74179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "K:/Tai Lieu Hoc Rikkei Academy/Module 2/untitled10"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;K:/Tai Lieu Hoc Rikkei Academy/Module 2/untitled11&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.bai2">
+}</component>
+  <component name="RunManager" selected="Application.bai1">
     <configuration name="bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai1" />
       <module name="untitled10" />
@@ -64,8 +57,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bai2" />
         <item itemvalue="Application.bai1" />
+        <item itemvalue="Application.bai2" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +73,9 @@
       <workItem from="1664416053125" duration="109000" />
       <workItem from="1664416261737" duration="1665000" />
       <workItem from="1664418188353" duration="47000" />
-      <workItem from="1664418277886" duration="4679000" />
+      <workItem from="1664418277886" duration="10140000" />
+      <workItem from="1664500496607" duration="10000" />
+      <workItem from="1664508491216" duration="31000" />
     </task>
     <servers />
   </component>
